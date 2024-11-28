@@ -4,7 +4,7 @@
 
 ### 项目介绍
 
-Lumen IM 是一个网页版在线聊天项目，前端使用 Naive UI + Vue3，后端采用 GO 开发。
+Lumen IM 是一个网页版在线聊天项目，前端使用 Naive UI + Vue3，后端采用 GO 开发。123
 
 ### 功能模块
 
