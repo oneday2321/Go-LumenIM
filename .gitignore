@@ -1,11 +1,1 @@
 .git/
-.pnpm-store/
-*.log
-*.cache
-dist/
-build/
-node_modules/
-*.tsbuildinfo
-*.tgz
-!.1024
-.1024*
